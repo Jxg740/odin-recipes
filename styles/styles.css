@@ -1,0 +1,25 @@
+body {
+    background-color: bisque;
+    width: 850px;
+    display:block;
+    margin: 0 auto;
+    font-family: 'Brush Script MT', 'Helvetica', sans-serif;
+}
+
+.title,
+h4,
+h3,
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    display: block;    
+    margin: 0 auto;
+}
+
+.recipe {
+    display: flex;
+}
+
